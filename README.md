@@ -12,7 +12,8 @@
 
  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&exclude_repo=nome-do-repo&theme=radical)
+
 
 
 
