@@ -6,6 +6,13 @@
 **Estudando Tecnologias e Ferramentas 🛠️**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 📊 Minhas estatísticas no GitHub  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karlakryz-codes&show_icons=true&theme=dracula)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&theme=dracula)  
+
+
 **Mais sobre mim 💡**  
 Oi, sou Karla! Estou cursando **Análise e Desenvolvimento de Sistemas** e tenho um interesse crescente em **Análise de Dados** e **Front-End**. Meu objetivo é construir soluções completas e bem estruturadas, desde a manipulação de dados até a criação de interfaces interativas.
 
