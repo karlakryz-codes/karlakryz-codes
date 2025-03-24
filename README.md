@@ -12,7 +12,8 @@
 
  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&theme=dracula)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&theme=radical)
+
 
 
 **Mais sobre mim 💡**  
