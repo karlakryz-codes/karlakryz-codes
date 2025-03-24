@@ -9,6 +9,7 @@ Oi! Eu sou a Karla, estudante de Análise e Desenvolvimento de Sistemas e apaixo
 
 
 🎯 Objetivos e Aprendizados
+
 🔹 Aprimorar minhas habilidades em Python e SQL, explorando técnicas avançadas para manipulação e análise de dados.
 🔹 Desenvolver interfaces modernas e responsivas com HTML, CSS e JavaScript.
 🔹 Aprofundar o conhecimento em React, criando aplicações dinâmicas e escaláveis.
