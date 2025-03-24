@@ -8,7 +8,8 @@
 
 ## 📊 Minhas estatísticas no GitHub  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karlakryz-codes&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karlakryz-codes&theme=radical)
+
  
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlakryz-codes&layout=compact&langs_count=8&theme=dracula)  
