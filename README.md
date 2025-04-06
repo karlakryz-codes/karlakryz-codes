@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Karla Kryz" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=✨+Me+chamo+Karla%2C+seja+bem-vindo(a)+ao+meu+GitHub!;💻+Transformando+%F0%9F%92%A1+ideias+em+solu%C3%A7%C3%B5es+digitais!;🚀+Em+constante+evolu%C3%A7%C3%A3o+no+mundo+da+tecnologia!;🌟+Aprendizado%2C+dados+e+paix%C3%A3o+por+c%C3%B3digo!" alt="Typing SVG" />
 
