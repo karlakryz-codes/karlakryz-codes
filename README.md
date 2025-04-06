@@ -1,4 +1,5 @@
-# Karla Kryz 👩‍💻
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F772D4&center=true&vCenter=true&width=435&lines=Karla+Kryz)
+👩‍💻
 
 **Conecte-se comigo 📲**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-almeida-7761932b0/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karlinhakryzz/)  [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/karlakryz-codes)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:karlakryz.codes@outlook.com)
