@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Karla Kryz" width="800" height="200"/>
+  <img src="banner.png" alt="Banner Karla Kryz" width="800" height="400"/>
 </p>
 
 
