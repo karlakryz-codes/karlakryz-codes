@@ -3,7 +3,8 @@
 </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=👩‍💻+Me+chamo+Karla%2C+seja+bem-vindo(a)+ao+meu+GitHub!;📚+Aprendizado+constante+em+tecnologia;💡+Transformando+ideias+em+código+inovador!;🚀+Sempre+em+evolução+no+universo+digital!" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F772D4&center=true&vCenter=true&width=1000&lines=👩‍💻+Me+chamo+Karla%2C+seja+bem-vindo(a)+ao+meu+GitHub!;📚+Aprendizado+constante+em+tecnologia;💡+Transformando+ideias+em+código+inovador!;🚀+Sempre+em+evolução+no+universo+digital!)
+>
 
 
 
