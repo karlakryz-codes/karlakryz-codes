@@ -38,8 +38,25 @@ Sou movida por desafios, criatividade e amor pela tecnologia 💜✨
 
 ---
 
-🧠 Tecnologias que utilizo
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br><sub>HTML5</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br><sub>CSS3</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br><sub>JavaScript</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br><sub>Python</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/><br><sub>C</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br><sub>MySQL</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/><br><sub>Java</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br><sub>Git</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br><sub>GitHub</sub> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/><br><sub>VSCode</sub> &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50" alt="Excel"/><br><sub>Excel</sub> &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI"/><br><sub>Power BI</sub> </p>
+---
+
+## 🧠 Tecnologias que utilizo
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br><sub>HTML5</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br><sub>CSS3</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br><sub>JavaScript</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br><sub>Python</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/><br><sub>C</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br><sub>MySQL</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/><br><sub>Java</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br><sub>Git</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br><sub>GitHub</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/><br><sub>VSCode</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50" alt="Excel"/><br><sub>Excel</sub></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI"/><br><sub>Power BI</sub></a>
+</p>
+
 
 
 
