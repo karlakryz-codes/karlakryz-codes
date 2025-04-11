@@ -7,6 +7,11 @@
 >
 
 
+<h1 align="center">✨ “Quem caminha com Jesus nunca anda só.” 🙏</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+formação;Apaixonada+por+tecnologia+e+fé;Deus+é+meu+maior+aliado!" alt="Typing SVG" />
+</p>
 
 
 
