@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/karlakryz-codes/karlakryz-codes/blob/main/karla.png?raw=true" alt="Banner Karla Kryz" width="800" height="400" />
+  <img src="https://raw.githubusercontent.com/karlakryz-codes/karlakryz-codes/main/karla.png" alt="Banner Karla Kryz" width="800" height="400" />
 </p>
 
 
