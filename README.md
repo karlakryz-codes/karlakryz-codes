@@ -31,18 +31,19 @@
 
 ## 💡 Sobre mim
 
-Oi! Eu sou a **Karla Kryz** 👩‍💻  
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **Análise de Dados** e **Front-End**.  
-Meu foco é criar soluções completas, combinando manipulação de dados com interfaces modernas e acessíveis.  
-Sou movida por desafios, criatividade e amor pela tecnologia 💜✨
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas | Future Data Analyst | 
+
+Profissional com experiência em serviços financeiros e recuperação de crédito, atuando com controle operacional, suporte técnico e análise de performance.
+Atualmente, sou Analista de Control Desk Júnior na Líder Assessoria, com foco em gestão de sistemas, monitoramento de indicadores e otimização de campanhas de cobrança.
+
+Em transição para a área de Análise de Dados, venho aprimorando habilidades em Python, SQL, Power BI e Excel Avançado, aplicando conceitos de estatística e visualização de dados para gerar insights e melhorar processos.
+Busco unir minha vivência operacional à tecnologia para transformar dados em resultados e apoiar decisões mais estratégicas. 💜✨
 
 ---
 
 ## 🎯 Objetivos e Aprendizados
 
 🔹 Aprimorar minhas habilidades em **Python** e **SQL**, explorando análise de dados avançada 📊  
-🔹 Criar interfaces modernas com **HTML**, **CSS** e **JavaScript** 🧑‍🎨  
-🔹 Avançar no **React** para desenvolver aplicações dinâmicas ⚛️  
 🔹 Explorar **Machine Learning** para transformar dados em decisões inteligentes 🤖  
 🔹 Contribuir com a comunidade tech e participar de projetos práticos 🤝  
 
